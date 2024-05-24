@@ -1,0 +1,1 @@
+# Parallel-algorithms-applied-to-photo-manipulation
